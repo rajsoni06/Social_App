@@ -39,10 +39,10 @@ function profile() {
   document.querySelector("#active").style.display = "none";
 }
 function reels() {
-  swal("Sorry, its not functional yet😥😅");
+  swal("Tts not functional yet😥😅");
 }
 function photo() {
-  swal("Sorry, this too is not functional yet😥😅");
+  swal("This too is not functional yet😥😅");
 }
 function following() {
   document.querySelector("#fip").style.backgroundColor = "white";
